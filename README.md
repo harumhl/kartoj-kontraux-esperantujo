@@ -11,7 +11,7 @@ Game Flow
 1. Create a room
 2. Join a room
 3. Decide a turn
-4. Start game (repeat #5~#12)
+4. Start game (repeat #5~#11)
 5. Draw (up to 10) Answer cards
 6. Draw a Question card
 7. Submit Answer cards
