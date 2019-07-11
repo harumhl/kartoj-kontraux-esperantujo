@@ -20,3 +20,11 @@ Game Flow
 10. Award points
 11. Rotate turn
 12. End game & Decide winner
+
+Miscellaneous features
+- Submit Question/Answer cards
+- Login?
+- Language change
+- Hover over for word definition display
+- Password for a room
+- Chatting in the room
