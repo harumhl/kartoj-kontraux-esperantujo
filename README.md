@@ -2,7 +2,7 @@
 Cards Against Humanity for Esperanto speakers
 
 Tools (Plan)
-1. Frontend (with mobile support) : ???
+1. Frontend (with mobile support) : Flutter (or maybe Xamarin/Ionic)
 2. Backend : Django (Channels channels.readthedocs.io)
 3. Server : Heroku
 4. Database : Firebase
